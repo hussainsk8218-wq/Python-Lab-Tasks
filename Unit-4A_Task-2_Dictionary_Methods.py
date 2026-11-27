@@ -1,4 +1,4 @@
-student={"name":"Ravi","age":20,"course":"Python"}
+student={"name":"Hussain","age":20,"course":"Python"}
 print("Keys:",student.keys())
 print("Values:",student.values())
 print("Items:",student.items())
